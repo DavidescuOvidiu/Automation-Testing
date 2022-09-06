@@ -4,4 +4,4 @@ Creating a [Project Object Mode](https://github.com/DavidescuOvidiu/Automation-T
 
 [Selenium exercise_1](https://github.com/DavidescuOvidiu/Automation-Testing/blob/main/Selenium%20exercises)
 
-[Selenium exercise_1](https://github.com/DavidescuOvidiu/Automation-Testing/blob/main/Selenium%20exercise_2)
+[Selenium exercise_2](https://github.com/DavidescuOvidiu/Automation-Testing/blob/main/Selenium%20exercise_2)
